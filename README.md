@@ -19,3 +19,5 @@ Builds the app at `build`, cleaning the folder first.
 Runs the `jest` tests once.
 
 The app will start on port 5000, it contains only one route /location 
+
+The route take a query param ?postcode, to query the post code.
